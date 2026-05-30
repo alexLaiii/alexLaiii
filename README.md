@@ -23,8 +23,8 @@ I'm a Computer Science student interested in full-stack development, AI/ML, and 
 
 - Bachelor of Computing, Mathematics, and Analytics student at Queen's University
 - Interested in software engineering, AI, and web development
-- Practicing data structures and algorithms through LeetCode
 - Building football related full-stack projects
+- Practicing data structures and algorithms through LeetCode
 
 ## My Projects
 

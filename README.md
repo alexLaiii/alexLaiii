@@ -52,7 +52,7 @@ A collection of documented Python solutions and explanations for algorithm pract
 **Tools:** Git, GitHub, VS Code, Eclipse
 
 ### Personal Porfolio
-A simple personal portfolio website I built back in early 2023, before “vibe coding” became common. Not much is going on visually, but it was built by hand and represents my early experience with web development.
+A simple personal portfolio website I built back in early 2023, before “vibe coding” became common. Not much is going on visually, but it was handcrafted and represents my early experience with web development.
 ## Contact
 
 - GitHub: [@alexLaiii](https://github.com/alexLaiii)
